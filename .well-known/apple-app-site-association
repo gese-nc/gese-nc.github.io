@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "9VZ462LC8G.dk.rejsekort.rejsebillet",
-        "paths": [
-          "/mitid/*"
-        ]
+        "paths": [ "*" ]
       }
     ]
   },
